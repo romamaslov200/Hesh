@@ -8,8 +8,8 @@ namespace ConsoleHashTable.Core
 {
     internal class HeshTable<T>
     {
-        static public int count;  // колво
-        private T[,] items = new T[count, 2]; // элементы
+        static public int count = 1;  // колво
+        private T[,] items = new T[count, 1]; // элементы
         const int n = 1;
 
         public HeshTable()
@@ -66,7 +66,7 @@ namespace ConsoleHashTable.Core
             //throw new InvalidOperationException("Стек пуст");
             else
             {
-                return items[count, 1];
+                return items[count - 1, 0];
             }
             return default(T);
         }
