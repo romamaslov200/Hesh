@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\bin\Debug\ConsoleHashTable.exe.config
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\bin\Debug\ConsoleHashTable.exe
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\bin\Debug\ConsoleHashTable.pdb
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\bin\Debug\RomanLib.dll
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\bin\Debug\RomanLib.pdb
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\obj\Debug\ConsoleHashTable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\obj\Debug\ConsoleHashTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\obj\Debug\ConsoleH.5FE6139F.Up2Date
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\obj\Debug\ConsoleHashTable.exe
+C:\Users\User\Desktop\Уханев иМаслов\ConsoleHashTable\ConsoleHashTable\obj\Debug\ConsoleHashTable.pdb
